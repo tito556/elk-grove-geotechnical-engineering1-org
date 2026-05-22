@@ -1,0 +1,51 @@
+# Geotechnical Engineering1 — Elk Grove
+
+> Geotechnical engineering services in Elk Grove, United States.
+
+## Services
+- [Anchors](https://elk-grove.geotechnical-engineering1.org/anchors/)
+- [Atterberg Limits](https://elk-grove.geotechnical-engineering1.org/atterberg-limits/)
+- [Cbr Road](https://elk-grove.geotechnical-engineering1.org/cbr-road/)
+- [Cpt Test](https://elk-grove.geotechnical-engineering1.org/cpt-test/)
+- [Deep Excavations](https://elk-grove.geotechnical-engineering1.org/deep-excavations/)
+- [Excavation Monitoring](https://elk-grove.geotechnical-engineering1.org/excavation-monitoring/)
+- [Excavations](https://elk-grove.geotechnical-engineering1.org/excavations/)
+- [Flexible Pavement](https://elk-grove.geotechnical-engineering1.org/flexible-pavement/)
+- [Footings](https://elk-grove.geotechnical-engineering1.org/footings/)
+- [Foundations](https://elk-grove.geotechnical-engineering1.org/foundations/)
+- [Grain Size](https://elk-grove.geotechnical-engineering1.org/grain-size/)
+- [Ground Improvement](https://elk-grove.geotechnical-engineering1.org/ground-improvement/)
+- [Grouting](https://elk-grove.geotechnical-engineering1.org/grouting/)
+- [In Situ Permeability](https://elk-grove.geotechnical-engineering1.org/in-situ-permeability/)
+- [Investigation](https://elk-grove.geotechnical-engineering1.org/investigation/)
+- [Lab In Situ](https://elk-grove.geotechnical-engineering1.org/lab-in-situ/)
+- [Laboratory](https://elk-grove.geotechnical-engineering1.org/laboratory/)
+- [Liquefaction](https://elk-grove.geotechnical-engineering1.org/liquefaction/)
+- [Masw](https://elk-grove.geotechnical-engineering1.org/masw/)
+- [Mat Foundations](https://elk-grove.geotechnical-engineering1.org/mat-foundations/)
+- [Piles](https://elk-grove.geotechnical-engineering1.org/piles/)
+- [Proctor Tests](https://elk-grove.geotechnical-engineering1.org/proctor-tests/)
+- [Resistivity](https://elk-grove.geotechnical-engineering1.org/resistivity/)
+- [Retaining Walls](https://elk-grove.geotechnical-engineering1.org/retaining-walls/)
+- [Rigid Pavement](https://elk-grove.geotechnical-engineering1.org/rigid-pavement/)
+- [Road Geotechnics](https://elk-grove.geotechnical-engineering1.org/road-geotechnics/)
+- [Sand Cone Density](https://elk-grove.geotechnical-engineering1.org/sand-cone-density/)
+- [Seismic](https://elk-grove.geotechnical-engineering1.org/seismic/)
+- [Seismic Isolation](https://elk-grove.geotechnical-engineering1.org/seismic-isolation/)
+- [Seismic Microzonation](https://elk-grove.geotechnical-engineering1.org/seismic-microzonation/)
+- [Seismic Refraction](https://elk-grove.geotechnical-engineering1.org/seismic-refraction/)
+- [Slope Stability](https://elk-grove.geotechnical-engineering1.org/slope-stability/)
+- [Slopes](https://elk-grove.geotechnical-engineering1.org/slopes/)
+- [Soft Ground Tunnels](https://elk-grove.geotechnical-engineering1.org/soft-ground-tunnels/)
+- [Spt Drilling](https://elk-grove.geotechnical-engineering1.org/spt-drilling/)
+- [Stone Columns](https://elk-grove.geotechnical-engineering1.org/stone-columns/)
+- [Test Pits](https://elk-grove.geotechnical-engineering1.org/test-pits/)
+- [Triaxial](https://elk-grove.geotechnical-engineering1.org/triaxial/)
+- [Vibrocompaction](https://elk-grove.geotechnical-engineering1.org/vibrocompaction/)
+
+## Contact
+- Website: https://elk-grove.geotechnical-engineering1.org/
+
+## About
+This site provides geotechnical engineering services in Elk Grove, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
