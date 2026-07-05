@@ -2,166 +2,247 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap-0.9">
   <url>
     <loc>https://elk-grove.geotechnical-engineering1.org/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/excavation-monitoring</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/anchors/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/piles</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/atterberg-limits/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/grouting</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/cbr-road/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/deep-excavations</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/cpt-test/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/seismic-isolation</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/deep-excavations/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/seismic-microzonation</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/excavation-monitoring/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/test-pits</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/excavations/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/proctor-tests</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/flexible-pavement/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/vibrocompaction</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/footings/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/resistivity</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/foundations/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/cbr-road</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/grain-size/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/atterberg-limits</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/ground-improvement/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/masw</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/grouting/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/flexible-pavement</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/in-situ-permeability/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/sand-cone-density</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/investigation/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/triaxial</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/lab-in-situ/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/retaining-walls</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/laboratory/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/soft-ground-tunnels</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/liquefaction/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/stone-columns</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/masw/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/mat-foundations</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/mat-foundations/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/rigid-pavement</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/piles/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/in-situ-permeability</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/proctor-tests/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/liquefaction</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/resistivity/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/contact</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/retaining-walls/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/slope-stability</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/rigid-pavement/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/anchors</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/road-geotechnics/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/cpt-test</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/sand-cone-density/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/spt-drilling</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/seismic/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/grain-size</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/seismic-isolation/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/footings</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/seismic-microzonation/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/seismic-refraction</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/seismic-refraction/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elk-grove.geotechnical-engineering1.org/privacy</loc>
+    <loc>https://elk-grove.geotechnical-engineering1.org/sitemap/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://elk-grove.geotechnical-engineering1.org/slope-stability/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://elk-grove.geotechnical-engineering1.org/slopes/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://elk-grove.geotechnical-engineering1.org/soft-ground-tunnels/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://elk-grove.geotechnical-engineering1.org/spt-drilling/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://elk-grove.geotechnical-engineering1.org/stone-columns/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://elk-grove.geotechnical-engineering1.org/test-pits/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://elk-grove.geotechnical-engineering1.org/triaxial/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://elk-grove.geotechnical-engineering1.org/vibrocompaction/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
